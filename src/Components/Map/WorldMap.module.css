@@ -1,0 +1,30 @@
+
+
+body {
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+#root {
+    height: 100%;
+}
+
+.leaflet-container {
+    background-color: white
+}
+
+
+.countryStyling {
+        fillColor: "purple";
+        fillOpacity: 0.4;
+        color: "black";
+        weight: 1;
+}
+
+.map{
+    height: 100vh;
+    background-color: whitesmoke;
+    z-index: 100;
+  
+} 
