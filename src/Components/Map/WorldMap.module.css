@@ -11,15 +11,15 @@ body {
 }
 
 .leaflet-container {
-    background-color: white
+    background-color: black
 }
 
 
 .countryStyling {
-        fillColor: "purple";
-        fillOpacity: 0.4;
-        color: "black";
-        weight: 1;
+        fillColor: black;
+        fillOpacity: 1.0;
+        color: black;
+        weight: 0.5;
 }
 
 .map{
